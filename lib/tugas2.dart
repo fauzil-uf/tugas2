@@ -65,7 +65,6 @@ class Tugas2 extends StatelessWidget {
 
           const SizedBox(height: 20),
 
-          // Row + Expanded
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 16),
             child: Row(
